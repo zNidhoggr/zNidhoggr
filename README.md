@@ -1,9 +1,5 @@
 <h1 align="center">Olá, eu sou o Denis! 👋</h1>
 
-<p align="center">
-  🎮 Desenvolvedor Full Stack | 🎓 Estudante de Ciência da Computação | 🌍 Brasil
-</p>
-
 ---
 ### 📊 GitHub Stats
 
