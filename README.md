@@ -1,14 +1,13 @@
-<h1 align="center">Olá, eu sou o Nid! 👋</h1>
+<h1 align="center">Olá, eu sou o Denis! 👋</h1>
 
 <p align="center">
-  🎮 Desenvolvedor de jogos | 🎓 Estudante de Ciência da Computação | 🌍 Brasil
+  🎮 Desenvolvedor Full Stack | 🎓 Estudante de Ciência da Computação | 🌍 Brasil
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mim
 
-- 🔭 Atualmente trabalhando em projetos com C++, OpenGL e Godot
 - 🎯 Focado em criar sistemas inteligentes, jogos 3D e mundos de fantasia
 - 🌱 Estudando: Teoria da Computação, Engine Design e Otimização de Código
 - 💬 Me pergunte sobre desenvolvimento de jogos, C++, ou projetos de sistemas embarcados
@@ -30,3 +29,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
 </p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zNidhoggr&theme=discord_old_blurple)
