@@ -5,6 +5,11 @@
 </p>
 
 ---
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zNidhoggr&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
+</p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zNidhoggr&theme=discord_old_blurple)
 
@@ -19,10 +24,5 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zNidhoggr&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
-</p>
 
 
