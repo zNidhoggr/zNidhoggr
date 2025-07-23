@@ -6,12 +6,7 @@
 
 ---
 
-### 👨‍💻 Sobre mim
-
-- 🎯 Focado em criar sistemas inteligentes, jogos 3D e mundos de fantasia
-- 🌱 Estudando: Teoria da Computação, Engine Design e Otimização de Código
-- 💬 Me pergunte sobre desenvolvimento de jogos, C++, ou projetos de sistemas embarcados
-- 📫 Como me encontrar: **denis22014jd@gmail.com**
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zNidhoggr&theme=discord_old_blurple)
 
 ---
 
@@ -27,7 +22,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zNidhoggr&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zNidhoggr&theme=discord_old_blurple)
+
