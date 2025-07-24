@@ -1,21 +1,19 @@
 <h1>Olá, eu sou o Denis! 👋</h1>
-Entusiasta por tecnologia, ciência de dados e desenvolvimento de jogos. Gosto de explorar áreas como Machine Learning, Visualização de Dados, Desenvolvimento de Jogos, e Soluções com OpenGL.
+Entusiasta de tecnologia, com interesse especial em ciência de dados e desenvolvimento de jogos. Atualmente no curso de Ciência da Computação. Tenho trabalhado com projetos que envolvem aprendizado de máquina, visualização de dados e gráficos em OpenGL.
 
----
 🛠️ Conhecimentos e Tecnologias
-• Linguagens: Python, C++, SQL, Assembly
+Linguagens: Python, C++, SQL, Assembly
 
-• Bibliotecas e Ferramentas: Pandas, Scikit-learn, OpenCV, Matplotlib, STB, GLM
+Bibliotecas & Ferramentas: Pandas, Scikit-learn, OpenCV, Matplotlib, STB, GLM
 
-🧠 Áreas de Interesse:
+🧠 Interesses Técnicos
+Engenharia de Dados e pipelines ETL
 
-• Engenharia de Dados e ETL
+Modelagem preditiva e classificação de dados
 
-• Modelos preditivos e classificação
+Computação gráfica e renderização com OpenGL
 
-• Computação gráfica
-
-• Projetos com terreno procedural e engines próprias
+Desenvolvimento de engines e terrenos procedurais
 
 
 ---
