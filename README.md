@@ -8,6 +8,7 @@ Linguagens: Python, C++, SQL, Java, JavaScript, Assembly
 Bibliotecas e Ferramentas: Pandas, Scikit-learn, OpenCV, Matplotlib, STB, GLM
 
 Áreas de Interesse:
+
 • Engenharia de Dados e ETL
 • Modelos preditivos e classificação
 • Computação gráfica
