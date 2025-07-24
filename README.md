@@ -1,4 +1,17 @@
-<h1 align="center">Olá, eu sou o Denis! 👋</h1>
+<h1>Olá, eu sou o Denis! 👋</h1>
+Entusiasta por tecnologia, ciência de dados e desenvolvimento de jogos. Gosto de explorar áreas como Machine Learning, Visualização de Dados, Desenvolvimento de Jogoss, e Soluções com OpenGL.
+
+---
+🛠️ Conhecimentos e Tecnologias
+Linguagens: Python, C++, SQL, Java, JavaScript, Assembly
+
+Bibliotecas e Ferramentas: Pandas, Scikit-learn, OpenCV, Matplotlib, STB, GLM
+
+Áreas de Interesse:
+• Engenharia de Dados e ETL
+• Modelos preditivos e classificação
+• Computação gráfica
+• Projetos com terreno procedural e engines próprias
 
 ---
 ### 📊 GitHub Stats
