@@ -1,7 +1,7 @@
 <h1>Olá, eu sou o Denis! 👋</h1>
-Entusiasta de tecnologia, com interesse especial em **ciência de dados** e **desenvolvimento de jogos**.  
-Atualmente estou no curso de **Ciência da Computação**.  
-Tenho trabalhado com projetos que envolvem **aprendizado de máquina**, **visualização de dados** e **gráficos em OpenGL**.
+Entusiasta de tecnologia, com interesse especial em ciência de dados e desenvolvimento de jogos.  
+Atualmente estou no curso de Ciência da Computação.  
+Tenho trabalhado com projetos que envolvem aprendizado de máquina, visualização de dados e gráficos em OpenGL.
 
 ---
 
